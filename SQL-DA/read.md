@@ -31,4 +31,6 @@ A **query** is a request sent to a database to **retrieve, insert, update, or de
 
 Think of a query as asking the database a question or giving it an instruction.
 
+CRUD (CREATE, READ, UPDATE, DELETE)
+
 <img width="743" height="413" alt="images" src="https://github.com/user-attachments/assets/01da2eee-ea83-4151-b6ca-a8ce1c2de0b3" />

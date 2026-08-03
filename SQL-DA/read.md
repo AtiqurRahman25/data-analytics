@@ -1,3 +1,27 @@
 <h1>A database is an organized collection of information that is stored electronically so it can be easily accessed, managed, updated, and searched</h1><br>
 <img width="2059" height="1302" alt="Difference_R-NR@4x-8" src="https://github.com/user-attachments/assets/6b260183-5169-4fdc-bac9-0c545a08ae55" />
+# Database Types
 
+## Relational Databases (SQL)
+
+Relational databases store data in **tables** consisting of rows and columns. Relationships between tables are created using **primary keys** and **foreign keys**. They are ideal for structured data and support **SQL (Structured Query Language)** for querying and managing data.
+
+### Popular Relational Databases
+
+- **MySQL** – Open-source relational database widely used for web applications.
+- **PostgreSQL** – Advanced open-source relational database with powerful features and standards compliance.
+- **Microsoft SQL Server** – Enterprise-grade relational database developed by Microsoft.
+- **Oracle Database** – High-performance commercial relational database commonly used in large enterprises.
+
+---
+
+## Non-relational Databases (NoSQL)
+
+Non-relational databases (NoSQL) do not store data in fixed tables. Instead, they use flexible data models such as documents, key-value pairs, columns, or graphs. They are designed for scalability, high performance, and handling unstructured or semi-structured data.
+
+### Popular Non-relational Databases
+
+- **MongoDB** *(Document Database)* – Stores data as JSON-like documents.
+- **Redis** *(Key-Value Database)* – Stores data as key-value pairs for extremely fast access.
+- **Apache Cassandra** *(Column-Family Database)* – Optimized for large-scale distributed data storage.
+- **Neo4j** *(Graph Database)* – Stores data as nodes and relationships, ideal for connected data such as social networks and recommendation systems.

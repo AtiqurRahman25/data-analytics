@@ -24,3 +24,11 @@ Non-relational databases (NoSQL) do not store data in fixed tables. Instead, the
 - **Redis** *(Key-Value Database)* – Stores data as key-value pairs for extremely fast access.
 - **Apache Cassandra** *(Column-Family Database)* – Optimized for large-scale distributed data storage.
 - **Neo4j** *(Graph Database)* – Stores data as nodes and relationships, ideal for connected data such as social networks and recommendation systems.
+
+# What is a Query?
+
+A **query** is a request sent to a database to **retrieve, insert, update, or delete data**. It is the primary way users and applications interact with a database.
+
+Think of a query as asking the database a question or giving it an instruction.
+
+

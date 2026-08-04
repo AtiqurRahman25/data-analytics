@@ -6,9 +6,8 @@
   <li>Find employees hired after January 1, 2023.</li>
   <li>Display unique department names.</li>
   <li>Find employees whose names start with "A".</li>
-
-Find employees earning between 40,000 and 70,000.
-Show employees sorted by salary descending.
-Return the first 10 employees.
-Count total employees.
+  <li>Find employees earning between 40,000 and 70,000.</li>
+  <li>Show employees sorted by salary descending.</li>
+  <li>Return the first 10 employees.</li>
+  <li>Count total employees.</li>
 </ul>

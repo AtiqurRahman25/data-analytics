@@ -1,1 +1,1 @@
-<h2>Q1</h2>
+<h2>Sample Questions</h2>

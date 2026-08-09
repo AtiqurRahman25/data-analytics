@@ -1,4 +1,4 @@
-# data-analytics
+# Data-Analytics
 
 Tech Stack & Libraries
 List the tools, languages, and libraries used throughout the project:

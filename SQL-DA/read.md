@@ -68,3 +68,11 @@ The `WHERE` statement is for narrow down statement.
 FROM orders
 WHERE status = 'Completed' 
   AND order_date >= '2026-01-01';
+
+SELECT 
+    category, 
+    COUNT(order_id) AS total_orders, 
+    SUM(total_amount) AS revenue
+FROM orders
+GROUP BY category
+HAVING SUM(total_amount) > 5000;

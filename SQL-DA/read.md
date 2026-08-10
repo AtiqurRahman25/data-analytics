@@ -60,3 +60,8 @@ SELECT
     total_amount
 FROM orders
 LIMIT 10;
+
+SELECT *
+FROM orders
+WHERE status = 'Completed' 
+  AND order_date >= '2026-01-01';

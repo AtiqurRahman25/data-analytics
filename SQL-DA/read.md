@@ -34,3 +34,29 @@ Think of a query as asking the database a question or giving it an instruction.
 CRUD (CREATE, READ, UPDATE, DELETE)
 
 <img width="743" height="413" alt="images" src="https://github.com/user-attachments/assets/01da2eee-ea83-4151-b6ca-a8ce1c2de0b3" />
+
+# SQL for Data Analytics: A Quick-Start Guide
+
+Welcome to this repository! This guide provides a foundational roadmap for using SQL to perform data analysis. 
+
+## 🚀 The Analytics Workflow
+Data analysis in SQL typically follows this logical flow:
+
+1. **Extract** (SELECT)
+2. **Filter** (WHERE)
+3. **Aggregate** (GROUP BY)
+4. **Combine** (JOIN)
+5. **Analyze** (WINDOW FUNCTIONS)
+
+---
+
+## 1. Extracting Data
+The `SELECT` statement is your primary tool for retrieving data.
+
+```sql
+SELECT 
+    customer_id, 
+    order_date, 
+    total_amount
+FROM orders
+LIMIT 10;

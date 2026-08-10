@@ -53,13 +53,16 @@ Data analysis in SQL typically follows this logical flow:
 ## 1. Extracting Data
 The `SELECT` statement is your primary tool for retrieving data.
 
-```sql
+sql
 SELECT 
     customer_id, 
     order_date, 
     total_amount
 FROM orders
 LIMIT 10;
+
+## 1. Filtering & Cleaning
+The `WHERE` statement is for narrow down statement.
 
 SELECT *
 FROM orders

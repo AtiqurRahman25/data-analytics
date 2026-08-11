@@ -1,8 +1,5 @@
 # Data-Analytics
 
-Tech Stack & Libraries
-List the tools, languages, and libraries used throughout the project:
-
 1️⃣Language: Python / SQL
 
 2️⃣Data Manipulation & Cleaning: Pandas, NumPy

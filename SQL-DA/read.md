@@ -54,7 +54,7 @@ Data analysis in SQL typically follows this logical flow:
 The `SELECT` statement is your primary tool for retrieving data.
 
 sql
-```SELECT 
+SELECT 
     customer_id, 
     order_date, 
     total_amount
@@ -64,7 +64,7 @@ LIMIT 10;
 ## 2. Filtering & Cleaning
 The `WHERE` statement is for narrow down statement.
 
-```SELECT *
+SELECT *
 FROM orders
 WHERE status = 'Completed' 
   AND order_date >= '2026-01-01';

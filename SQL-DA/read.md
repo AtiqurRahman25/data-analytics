@@ -47,32 +47,3 @@ Data analysis in SQL typically follows this logical flow:
 3. **Aggregate** (GROUP BY)
 4. **Combine** (JOIN)
 5. **Analyze** (WINDOW FUNCTIONS)
-
----
-
-## 1. Extracting Data
-The `SELECT` statement is your primary tool for retrieving data.
-
-sql
-SELECT 
-    customer_id, 
-    order_date, 
-    total_amount
-FROM orders
-LIMIT 10;
-
-## 2. Filtering & Cleaning
-The `WHERE` statement is for narrow down statement.
-
-SELECT *
-FROM orders
-WHERE status = 'Completed' 
-  AND order_date >= '2026-01-01';
-
-SELECT 
-    category, 
-    COUNT(order_id) AS total_orders, 
-    SUM(total_amount) AS revenue
-FROM orders
-GROUP BY category
-HAVING SUM(total_amount) > 5000;

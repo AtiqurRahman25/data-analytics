@@ -44,5 +44,5 @@ CRUD (CREATE, READ, UPDATE, DELETE)
 5. **Analyze** (WINDOW FUNCTIONS)
 
 # ROADMAP to Follow
-<img width="399" height="501" alt="images (1)" src="https://github.com/user-attachments/assets/39249070-eea1-4ea0-9b37-105ad1911467" />
+<img width="1980" height="1024" alt="images (1)" src="https://github.com/user-attachments/assets/39249070-eea1-4ea0-9b37-105ad1911467" />
 

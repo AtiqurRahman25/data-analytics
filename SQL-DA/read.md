@@ -39,9 +39,6 @@ CRUD (CREATE, READ, UPDATE, DELETE)
 
 Welcome to this repository! This guide provides a foundational roadmap for using SQL to perform data analysis. 
 
-## 🚀 The Analytics Workflow
-Data analysis in SQL typically follows this logical flow:
-
 1. **Extract** (SELECT)
 2. **Filter** (WHERE)
 3. **Aggregate** (GROUP BY)

@@ -42,3 +42,7 @@ CRUD (CREATE, READ, UPDATE, DELETE)
 3. **Aggregate** (GROUP BY)
 4. **Combine** (JOIN)
 5. **Analyze** (WINDOW FUNCTIONS)
+
+# ROADMAP to Follow
+<img width="399" height="501" alt="images (1)" src="https://github.com/user-attachments/assets/39249070-eea1-4ea0-9b37-105ad1911467" />
+
